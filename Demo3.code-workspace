@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Demo3"
+		},
+		{
+			"path": "../laptrinhfront-end"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Demo3"
+	}
+}
